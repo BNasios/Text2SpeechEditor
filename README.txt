@@ -1,3 +1,6 @@
+Text2SpeechEditor: an application for writing
+documents and transforming them to audio.
+
 GoT Team:
 Apostolos Vakalos, 3185
 Anastasios Amperiadis, 3178
