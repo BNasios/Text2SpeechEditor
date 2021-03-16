@@ -1,5 +1,4 @@
-Text2SpeechEditor: an application for writing
-documents and transforming them to audio.
+Text2SpeechEditor: an application for writing documents and transforming them to audio.
 
 GoT Team:
 Apostolos Vakalos, 3185
